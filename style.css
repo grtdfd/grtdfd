@@ -1,0 +1,81 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border-radius: 10px;
+    padding: 10px;
+    border: 5px solid blue;
+    color: darkblue;
+}
+
+header a {
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+    background-color: darkblue;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    border-radius: 20px;
+    border: 5px solid orange;
+    color: darkviolet;
+}
+
+footer {
+    padding: 5px;
+    color: white;
+}
+
+footer p {
+    background-color: green;
+}
+
+nav {
+    padding: 10px;
+    margin: 10px;
+}
+
+nav a {
+    padding: 5px;
+    text-align: center;
+    border-radius: 10px;
+    text-decoration: none;
+    background-color: darkblue;
+    color: white;
+    margin: 10px;
+}
+
+p {
+    padding: 10px;
+    background-color: IndianRed;
+    border-radius: 15px;
+    color: white;
+    margin: 5px;
+}
+
+p img{
+    padding: 10px;
+    background-color: IndianRed;
+    border-radius: 15px;
+    color: white;
+    margin: 5px;
+}
+
+main {
+    font-family: 20px;
+    color: blue;
+}
+
+main h2 {
+    font-family: 20px;
+    color: blue;
+}
+
+a {
+    padding: 5px;
+    border: 5px solid darkblue;
+    text-decoration: none;
+}
